@@ -104,14 +104,8 @@ Output:
 
 ### 🛒 Shopify Analyzer
 
-* Public Mode: Enter `allbirds.com` → gets product list
+* Public Mode: Enter `xyz.com` → gets product list
 * Private Mode: Uses your API credentials → gets sales, orders, inventory alerts
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots of Streamlit tabs and example reports here)*
 
 ---
 

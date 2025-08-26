@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+.env.*
+
+# Jupyter / Streamlit
+.ipynb_checkpoints
+.streamlit/
+logs/
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Project-specific
+config.py        # <- where you keep SHOPIFY keys
+secrets.json
+*.sqlite3
+*.db
+
+# Notes / Reports
+notes/
+*.pdf
+*.docx
+*.csv
+*.xlsx
+
+# Cache
+.cache/
+*.tmp
+*.bak

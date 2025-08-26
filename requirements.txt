@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain-groq
+wikipedia
+arxiv
+tavily-python
+shopifyapi
+python-dotenv
